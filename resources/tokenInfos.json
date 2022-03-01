@@ -1,0 +1,461 @@
+[
+    {
+        "tokenURI": {
+            "Price": "30",
+            "Damage": "60",
+            "FireRate": "0.7",
+            "ReloadTime": "1",
+            "Range": "2",
+            "Accurancy": "1",
+            "Weight": "1",
+            "type": "knife",
+            "Customizer": "0,0,0,0,0",
+            "description": "A knife is a tool or weapon with a cutting edge or blade, usually attached to a handle or hilt.",
+            "image": "https://ipfs.io/ipfs/QmSuxc5zrJ4fTFgWfp4JCVZNde68DxQtQMWvk8YPQBvz4q",
+            "name": "Knife"
+        },
+        "price": "30"
+    },
+    {
+        "tokenURI": {
+            "Price": "500",
+            "Damage": "30",
+            "FireRate": "0.2",
+            "ReloadTime": "1.6",
+            "Range": "50",
+            "Accurancy": "3",
+            "Weight": "1.3",
+            "type": "pistol",
+            "Customizer": "0,0,0,0,0",
+            "description": "The Colt was invented by gun designer John Browning and made by the Colt firearm company and is one of the most famous military handguns of all time.",
+            "image": "https://ipfs.io/ipfs/QmRo1A1n9tPFVZw3KPtGUSGVtZ4e4DRjqjJhh5oYZq2uom",
+            "name": "Colt M1911"
+        },
+        "price": "500"
+    },
+    {
+        "tokenURI": {
+            "Price": "3000",
+            "Damage": "100",
+            "FireRate": "0.6",
+            "ReloadTime": "3",
+            "Range": "800",
+            "Accurancy": "5",
+            "Weight": "3.44",
+            "type": "sniper",
+            "Customizer": "0,0,0,0,1",
+            "description": "Dragunov SVD is more like a designated marksman rifle than a sniper rifle. It's a reliable, accurate rifle in that it is meant to be sturdy and robust.",
+            "image": "https://ipfs.io/ipfs/QmP127sBK6GQgQswjRibW9wwhyT6TxWsY1ZoyVNQH1SFY5",
+            "name": "Dragunov SVD-1"
+        },
+        "price": "3000"
+    },
+    {
+        "tokenURI": {
+            "Price": "2800",
+            "Damage": "80",
+            "FireRate": "0.6",
+            "ReloadTime": "3",
+            "Range": "700",
+            "Accurancy": "5",
+            "Weight": "3.44",
+            "type": "sniper",
+            "Customizer": "0,0,0,0,2",
+            "description": "Dragunov SVD is more like a designated marksman rifle than a sniper rifle. It's a reliable, accurate rifle in that it is meant to be sturdy and robust.",
+            "image": "https://ipfs.io/ipfs/QmQpGsbbv5mVvmoDa2H1Zu5wUvKULs2WtbGSacX7LWgWwP",
+            "name": "Dragunov SVD-2"
+        },
+        "price": "2800"
+    },
+    {
+        "tokenURI": {
+            "Price": "2500",
+            "Damage": "60",
+            "FireRate": "0.6",
+            "ReloadTime": "3",
+            "Range": "600",
+            "Accurancy": "5",
+            "Weight": "3.44",
+            "type": "sniper",
+            "Customizer": "0,0,0,0,3",
+            "description": "Dragunov SVD is more like a designated marksman rifle than a sniper rifle. It's a reliable, accurate rifle in that it is meant to be sturdy and robust.",
+            "image": "https://ipfs.io/ipfs/QmPTz4cVnmQpHNA9kQ1aFv7v41L7ac3mJBacvZpK837KZb",
+            "name": "Dragunov SVD-3"
+        },
+        "price": "2500"
+    },
+    {
+        "tokenURI": {
+            "Price": "2300",
+            "Damage": "50",
+            "FireRate": "0.6",
+            "ReloadTime": "3",
+            "Range": "500",
+            "Accurancy": "5",
+            "Weight": "3.44",
+            "type": "sniper",
+            "Customizer": "0,0,0,0,4",
+            "description": "Dragunov SVD is more like a designated marksman rifle than a sniper rifle. It's a reliable, accurate rifle in that it is meant to be sturdy and robust.",
+            "image": "https://ipfs.io/ipfs/QmfA7fZ6y6CsXxAA2gQ9ZLdshPtYxFK4e4MQ2G6kJ2UoU1",
+            "name": "Dragunov SVD-4"
+        },
+        "price": "2300"
+    },
+    {
+        "tokenURI": {
+            "Price": "1400",
+            "Damage": "30",
+            "FireRate": "0.09",
+            "ReloadTime": "2.2",
+            "Range": "700",
+            "Accurancy": "2",
+            "Weight": "3",
+            "type": "rifle",
+            "Customizer": "0,0,0,0,1",
+            "description": "It has been reported that the FN FNC is very reliable. This assault rifle has a three-round selector system, which allows the weapon to fire a three-round burst with each trigger pull. Also the FNC can fire in semi-auto and full-auto modes. The FNC is fed from 30-round steel magazines.",
+            "image": "https://ipfs.io/ipfs/QmcjhEubtRjQ7jozkQW1DR4oxJpK5DZVpcUxxF93brp2FM",
+            "name": "FN_FNC-1"
+        },
+        "price": "1400"
+    },
+    {
+        "tokenURI": {
+            "Price": "1200",
+            "Damage": "25",
+            "FireRate": "0.09",
+            "ReloadTime": "2.2",
+            "Range": "600",
+            "Accurancy": "2",
+            "Weight": "3",
+            "type": "rifle",
+            "Customizer": "0,0,0,0,2",
+            "description": "It has been reported that the FN FNC is very reliable. This assault rifle has a three-round selector system, which allows the weapon to fire a three-round burst with each trigger pull. Also the FNC can fire in semi-auto and full-auto modes. The FNC is fed from 30-round steel magazines.",
+            "image": "https://ipfs.io/ipfs/QmdY21ED2roFUjZLwHoJvYZ33ghG4ZUYrvAzM9SjTAFyTp",
+            "name": "FN_FNC-2"
+        },
+        "price": "1200"
+    },
+    {
+        "tokenURI": {
+            "Price": "1000",
+            "Damage": "20",
+            "FireRate": "0.09",
+            "ReloadTime": "2.2",
+            "Range": "500",
+            "Accurancy": "2",
+            "Weight": "3",
+            "type": "rifle",
+            "Customizer": "0,0,0,0,3",
+            "description": "It has been reported that the FN FNC is very reliable. This assault rifle has a three-round selector system, which allows the weapon to fire a three-round burst with each trigger pull. Also the FNC can fire in semi-auto and full-auto modes. The FNC is fed from 30-round steel magazines.",
+            "image": "https://ipfs.io/ipfs/QmZbQxpJ2oMhZPLxRsUYpm2M5WADHcV5uUthuHRMfSweep",
+            "name": "FN_FNC-3"
+        },
+        "price": "1000"
+    },
+    {
+        "tokenURI": {
+            "Price": "2500",
+            "Damage": "75",
+            "FireRate": "1.5",
+            "ReloadTime": "5.2",
+            "Range": "300",
+            "Accurancy": "1",
+            "Weight": "4",
+            "type": "bombard",
+            "Customizer": "0,0,0,0,1",
+            "description": "The M32 MGL (Multiple Grenade Launcher) is a repeat-fire, portable grenade launcher. The weapon offers suppression of enemy positions through a spring-driven, non-removable, six-shot revolving cylinder capable of projecting 40mm-type grenades out to ranges of 400 yards.",
+            "image": "https://ipfs.io/ipfs/QmaUvZwjjZxputTNPV6xD9KJ4Fo9uhDQxg8tiwDYgdxGoF",
+            "name": "M32_MGL-1"
+        },
+        "price": "2500"
+    },
+    {
+        "tokenURI": {
+            "Price": "2400",
+            "Damage": "70",
+            "FireRate": "1.5",
+            "ReloadTime": "5.2",
+            "Range": "280",
+            "Accurancy": "1",
+            "Weight": "4",
+            "type": "bombard",
+            "Customizer": "0,0,0,0,2",
+            "description": "The M32 MGL (Multiple Grenade Launcher) is a repeat-fire, portable grenade launcher. The weapon offers suppression of enemy positions through a spring-driven, non-removable, six-shot revolving cylinder capable of projecting 40mm-type grenades out to ranges of 400 yards.",
+            "image": "https://ipfs.io/ipfs/QmazUqmEeF2eV9WtFNaY7gftYe1Ktmcs8DaX6koVJnUfQ1",
+            "name": "M32_MGL-2"
+        },
+        "price": "2400"
+    },
+    {
+        "tokenURI": {
+            "Price": "2300",
+            "Damage": "65",
+            "FireRate": "1.5",
+            "ReloadTime": "5.2",
+            "Range": "250",
+            "Accurancy": "1",
+            "Weight": "4",
+            "type": "bombard",
+            "Customizer": "0,0,0,0,3",
+            "description": "The M32 MGL (Multiple Grenade Launcher) is a repeat-fire, portable grenade launcher. The weapon offers suppression of enemy positions through a spring-driven, non-removable, six-shot revolving cylinder capable of projecting 40mm-type grenades out to ranges of 400 yards.",
+            "image": "https://ipfs.io/ipfs/QmZYccUFoMjgscGqBGZVp2KWHbmjR2aRf4WLPg8V5ce9Dw",
+            "name": "M32_MGL-3"
+        },
+        "price": "2300"
+    },
+    {
+        "tokenURI": {
+            "Price": "2200",
+            "Damage": "60",
+            "FireRate": "1.5",
+            "ReloadTime": "5.2",
+            "Range": "230",
+            "Accurancy": "1",
+            "Weight": "4",
+            "type": "bombard",
+            "Customizer": "0,0,0,0,4",
+            "description": "The M32 MGL (Multiple Grenade Launcher) is a repeat-fire, portable grenade launcher. The weapon offers suppression of enemy positions through a spring-driven, non-removable, six-shot revolving cylinder capable of projecting 40mm-type grenades out to ranges of 400 yards.",
+            "image": "https://ipfs.io/ipfs/QmPP2oM1wxUfWmdSmTwbeK9x3k5333Y8X8c7sVH3HaAjmd",
+            "name": "M32_MGL-4"
+        },
+        "price": "2200"
+    },
+    {
+        "tokenURI": {
+            "Price": "2100",
+            "Damage": "55",
+            "FireRate": "1.5",
+            "ReloadTime": "5.2",
+            "Range": "200",
+            "Accurancy": "1",
+            "Weight": "4",
+            "type": "bombard",
+            "Customizer": "0,0,0,0,5",
+            "description": "The M32 MGL (Multiple Grenade Launcher) is a repeat-fire, portable grenade launcher. The weapon offers suppression of enemy positions through a spring-driven, non-removable, six-shot revolving cylinder capable of projecting 40mm-type grenades out to ranges of 400 yards.",
+            "image": "https://ipfs.io/ipfs/QmPppqmLcoD4Dhtb86EXwEjmH71LZXxjWLztdK6aiB5CnD",
+            "name": "M32_MGL-5"
+        },
+        "price": "2100"
+    },
+    {
+        "tokenURI": {
+            "Price": "800",
+            "Damage": "40",
+            "FireRate": "0.086",
+            "ReloadTime": "2.7",
+            "Range": "200",
+            "Accurancy": "2",
+            "Weight": "2",
+            "type": "rifle",
+            "Customizer": "0,0,0,0,1",
+            "description": "MP5k is a good PDW(Personal Defense Weapon), especially if fitted with the folding stock. It can be fired with the stock folded but the use of the extended stock greatly increases the user accuracy with the weapon.",
+            "image": "https://ipfs.io/ipfs/Qme5cno1oMNuu9MZYSVoxLVEqsW1PjgyxFV8EztiURLeAP",
+            "name": "MP5K-1"
+        },
+        "price": "800"
+    },
+    {
+        "tokenURI": {
+            "Price": "700",
+            "Damage": "35",
+            "FireRate": "0.086",
+            "ReloadTime": "2.7",
+            "Range": "180",
+            "Accurancy": "2",
+            "Weight": "2",
+            "type": "rifle",
+            "Customizer": "0,0,0,0,2",
+            "description": "MP5k is a good PDW(Personal Defense Weapon), especially if fitted with the folding stock. It can be fired with the stock folded but the use of the extended stock greatly increases the user accuracy with the weapon.",
+            "image": "https://ipfs.io/ipfs/QmcpZ3gTSC38fmx5kjUufL5k2UJS5UBMwhzkfKxSoYo5ka",
+            "name": "MP5K-2"
+        },
+        "price": "700"
+    },
+    {
+        "tokenURI": {
+            "Price": "400",
+            "Damage": "22",
+            "FireRate": "0.2",
+            "ReloadTime": "3.3",
+            "Range": "300",
+            "Accurancy": "3",
+            "Weight": "2",
+            "type": "pistol",
+            "Customizer": "0,0,0,0,0",
+            "description": "Raging Hornet is a massive firearm with powerful locking and a distinctively contoured heavy barrel with integral ventilated rib. Though it comes with good adjustable open sights, a scope is necessary for best accuracy.",
+            "image": "https://ipfs.io/ipfs/QmdEJYo1V9vpHPihe68p5cDjfGcPzgPUAK6N2R1KJy9uUb",
+            "name": "Raging Hormet"
+        },
+        "price": "400"
+    },
+    {
+        "tokenURI": {
+            "Price": "1000",
+            "Damage": "50",
+            "FireRate": "0.45",
+            "ReloadTime": "2.4",
+            "Range": "100",
+            "Accurancy": "1",
+            "Weight": "3",
+            "type": "shotgun",
+            "Customizer": "0,0,0,0,1",
+            "description": "SDASS-MARTIAL is a very powerful weapon for annihilating enemies at close range. It is especially powerful at annihilating the targets above.",
+            "image": "https://ipfs.io/ipfs/QmbwoVVvXc2VsZ3DEuECMeStA4kFDu8pKVk7Mv1m5oJoHP",
+            "name": "SDASS-MARTIAL-1"
+        },
+        "price": "1000"
+    },
+    {
+        "tokenURI": {
+            "Price": "900",
+            "Damage": "45",
+            "FireRate": "0.45",
+            "ReloadTime": "2.4",
+            "Range": "90",
+            "Accurancy": "1",
+            "Weight": "3",
+            "type": "shotgun",
+            "Customizer": "0,0,0,0,2",
+            "description": "SDASS-MARTIAL is a very powerful weapon for annihilating enemies at close range. It is especially powerful at annihilating the targets above.",
+            "image": "https://ipfs.io/ipfs/QmbohyQYSfNhKe8UeekiyQKYBrv2pzcYxdJKvJ33a8WGJN",
+            "name": "SDASS-MARTIAL-2"
+        },
+        "price": "900"
+    },
+    {
+        "tokenURI": {
+            "Price": "800",
+            "Damage": "40",
+            "FireRate": "0.45",
+            "ReloadTime": "2.4",
+            "Range": "80",
+            "Accurancy": "1",
+            "Weight": "3",
+            "type": "shotgun",
+            "Customizer": "0,0,0,0,3",
+            "description": "SDASS-MARTIAL is a very powerful weapon for annihilating enemies at close range. It is especially powerful at annihilating the targets above.",
+            "image": "https://ipfs.io/ipfs/QmWwpDajawXsPLzKauK6y4zmfmEiLBFAp7v4TcUEuA6nt8",
+            "name": "SDASS-MARTIAL-3"
+        },
+        "price": "800"
+    },
+    {
+        "tokenURI": {
+            "Price": "700",
+            "Damage": "35",
+            "FireRate": "0.45",
+            "ReloadTime": "2.4",
+            "Range": "70",
+            "Accurancy": "1",
+            "Weight": "3",
+            "type": "shotgun",
+            "Customizer": "0,0,0,0,4",
+            "description": "SDASS-MARTIAL is a very powerful weapon for annihilating enemies at close range. It is especially powerful at annihilating the targets above.",
+            "image": "https://ipfs.io/ipfs/QmUP3SJeV9b277ALMtUJBX89kbgrkY3hzM6zv9D7aBRv91",
+            "name": "SDASS-MARTIAL-4"
+        },
+        "price": "700"
+    },
+    {
+        "tokenURI": {
+            "Price": "600",
+            "Damage": "30",
+            "FireRate": "0.45",
+            "ReloadTime": "2.4",
+            "Range": "60",
+            "Accurancy": "1",
+            "Weight": "3",
+            "type": "shotgun",
+            "Customizer": "0,0,0,0,5",
+            "description": "SDASS-MARTIAL is a very powerful weapon for annihilating enemies at close range. It is especially powerful at annihilating the targets above.",
+            "image": "https://ipfs.io/ipfs/QmX5odUSxMBC54VtpbJr9o61ZvUQHwfSt6ithgm9bEJQUL",
+            "name": "SDASS-MARTIAL-5"
+        },
+        "price": "600"
+    },
+    {
+        "tokenURI": {
+            "Price": "600",
+            "Damage": "30",
+            "FireRate": "0.085",
+            "ReloadTime": "2.7",
+            "Range": "200",
+            "Accurancy": "2",
+            "Weight": "1.1",
+            "type": "rifle",
+            "Customizer": "0,0,0,0,1",
+            "description": "The Steyr TMP is a 9×19mm Parabellum caliber machine pistol. The magazines come in 15-, 20-, or 30-round detachable box types. A suppressor can also be fitted.",
+            "image": "https://ipfs.io/ipfs/QmPxcbkjoMAm7EZMJ5URGPVFJDQvnP8iN96pLyzZKUYD5B",
+            "name": "Steyr_TMP-1"
+        },
+        "price": "600"
+    },
+    {
+        "tokenURI": {
+            "Price": "550",
+            "Damage": "28",
+            "FireRate": "0.085",
+            "ReloadTime": "2.7",
+            "Range": "180",
+            "Accurancy": "2",
+            "Weight": "1.1",
+            "type": "rifle",
+            "Customizer": "0,0,0,0,2",
+            "description": "The Steyr TMP is a 9×19mm Parabellum caliber machine pistol. The magazines come in 15-, 20-, or 30-round detachable box types. A suppressor can also be fitted.",
+            "image": "https://ipfs.io/ipfs/QmZZS6aF8DeXG8eLwTn3n8EmP8Mwmi6aDWL5pX6ibYsJYf",
+            "name": "Steyr_TMP-2"
+        },
+        "price": "550"
+    },
+    {
+        "tokenURI": {
+            "Price": "500",
+            "Damage": "25",
+            "FireRate": "0.085",
+            "ReloadTime": "2.7",
+            "Range": "150",
+            "Accurancy": "2",
+            "Weight": "1.1",
+            "type": "rifle",
+            "Customizer": "0,0,0,0,3",
+            "description": "The Steyr TMP is a 9×19mm Parabellum caliber machine pistol. The magazines come in 15-, 20-, or 30-round detachable box types. A suppressor can also be fitted.",
+            "image": "https://ipfs.io/ipfs/QmSw38JDXwvRv7of3dsUBC9n81dQXekpNmJh8MYG6wAkCv",
+            "name": "Steyr_TMP-3"
+        },
+        "price": "500"
+    },
+    {
+        "tokenURI": {
+            "Price": "450",
+            "Damage": "23",
+            "FireRate": "0.085",
+            "ReloadTime": "2.7",
+            "Range": "130",
+            "Accurancy": "2",
+            "Weight": "1.1",
+            "type": "rifle",
+            "Customizer": "0,0,0,0,4",
+            "description": "The Steyr TMP is a 9×19mm Parabellum caliber machine pistol. The magazines come in 15-, 20-, or 30-round detachable box types. A suppressor can also be fitted.",
+            "image": "https://ipfs.io/ipfs/QmQdcU17aNZLtLUhxTcQ8EBV9kAnz2LsPdopP3cN1LmT8E",
+            "name": "Steyr_TMP-4"
+        },
+        "price": "450"
+    },
+    {
+        "tokenURI": {
+            "Price": "400",
+            "Damage": "20",
+            "FireRate": "0.085",
+            "ReloadTime": "2.7",
+            "Range": "100",
+            "Accurancy": "2",
+            "Weight": "1.1",
+            "type": "rifle",
+            "Customizer": "0,0,0,0,5",
+            "description": "The Steyr TMP is a 9×19mm Parabellum caliber machine pistol. The magazines come in 15-, 20-, or 30-round detachable box types. A suppressor can also be fitted.",
+            "image": "https://ipfs.io/ipfs/QmUtdwaUG8fkdk6QekpADKvkDosXkjX5RyjKABfoAbHqWL",
+            "name": "Steyr_TMP-5"
+        },
+        "price": "400"
+    }
+]
